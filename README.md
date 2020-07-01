@@ -6,7 +6,7 @@ Githubはネット上のレポジトリホスティングサービス
 
 ```sh
 $ git config --global user.name "masa1203"
-$ git config --global user.email msys.sawada@gmail.com
+$ git config --global user.email mail address
 $ git config --global core.editor ""
 
 # 確認方法
@@ -654,13 +654,13 @@ $ git tag -a 20200630 -m "version 20200630"
 
 $ git show 20200630
 tag 20200630
-Tagger: masa1203 <msys.sawada@gmail.com>
+Tagger: masa1203 <mail_address@gmail.com>
 Date:   Tue Jun 30 18:33:04 2020 +0900
 
 version 20200630
 
 commit d29cba3daf1bdf79a70f58c3f554dc31bc9a6824 (HEAD -> master, tag: 20200630, origin/master)
-Author: masa1203 <msys.sawada@gmail.com>
+Author: masa1203 <mail address>
 Date:   Tue Jun 30 18:18:06 2020 +0900
 
     third.htmlを追加
